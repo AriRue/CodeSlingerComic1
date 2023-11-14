@@ -3,31 +3,77 @@ import SwiftUI
 // Use the relevant folders and swift files to code your chapter of the story. Keep ContentView as-is, unless you want a different type of navigation in your story.
 struct ContentView: View {
     var body: some View {
-        TabView {
-            Chapter1View()
-                .tabItem {
-                    Label("Chapter 1", systemImage: "1.circle")
+        ZStack{
+            
+            Color.black
+                .ignoresSafeArea()
+            
+            
+            VStack{
+                
+                NavigationLink {
+                    Chapter1View()
+                } label: {
+                    Text ("Chapter 1 : The Quiet Coder")
+                        .foregroundColor(.codeblue)
+                    
                 }
-            Chapter2View()
-                .tabItem {
-                    Label("Chapter 2", systemImage: "2.circle")
+                
+                NavigationLink {
+                    Chapter2View()
+                } label: {
+                    Text ("Chapter 2 : Secrets Revealed")
+                        .foregroundColor(.codeblue)
                 }
-            Chapter3View()
-                .tabItem {
-                    Label("Chapter 3", systemImage: "3.circle")
+                NavigationLink {
+                    Chapter3View()
+                } label: {
+                    Text ("Chapter 3 : Rise of the Code Slinger")
+                        .foregroundColor(.codeblue)
                 }
-            Chapter4View()
-                .tabItem {
-                    Label("Chapter 4", systemImage: "4.circle")
+                NavigationLink {
+                    Chapter4View()
+                } label: {
+                    Text ("Chapter 4 : The Battle Begins")
+                        .foregroundColor(.codeblue)
                 }
-            Chapter5View()
-                .tabItem {
-                    Label("Chapter 5", systemImage: "5.circle")
+                NavigationLink {
+                    Chapter1View()
+                } label: {
+                    Text ("Chapter 5 : Triumph of Humanity")
+                        .foregroundColor(.codeblue)
+                    
+                    
+                    
+                    
+                    //        TabView {
+                    //            Chapter1View()
+                    //                .tabItem {
+                    //                    Label("Chapter 1", systemImage: "1.circle")
+                    //                }
+                    //            Chapter2View()
+                    //                .tabItem {
+                    //                    Label("Chapter 2", systemImage: "2.circle")
+                    //                }
+                    //            Chapter3View()
+                    //                .tabItem {
+                    //                    Label("Chapter 3", systemImage: "3.circle")
+                    //                }
+                    //            Chapter4View()
+                    //                .tabItem {
+                    //                    Label("Chapter 4", systemImage: "4.circle")
+                    //                }
+                    //            Chapter5View()
+                    //                .tabItem {
+                    //                    Label("Chapter 5", systemImage: "5.circle")
+                    //                }
+                    //        }
                 }
+            }
         }
     }
 }
-
 #Preview {
-    ContentView()
-}
+        ContentView()
+    }
+
