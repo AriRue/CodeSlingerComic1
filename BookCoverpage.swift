@@ -2,17 +2,54 @@
 //  BookCoverpage.swift
 //  SwiftUIStoryTemplate
 //
-//  Created by Zeeshan Hafiz on 11/14/23.
+//  Created by Ariel Rue  on 11/13/23.
 //
 
 import SwiftUI
 
 struct BookCoverpage: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        
+        // need the navigation stack on the page before the page you want the link to take you to , or call.
+        
+        NavigationStack{
+            
+        ZStack {
+            Spacer()
+            Image(.bookcover2)
+                .resizable()
+                .scaledToFill()
+                .ignoresSafeArea(.all)
+            
+            VStack {
+                
+                Spacer()
+                
+                
+                NavigationLink {
+                    ContentView()
+                } label: {
+                    
+                    Spacer()
+                    Image(.buttoncc2)
+                        .padding()
+                        .frame(maxHeight: .infinity, alignment: .bottom)
+        
+                    Spacer()
+                        
+                }
+              
+                
+                
+                
+            }
+        }
     }
-}
+        }
+    }
 
-#Preview {
-    BookCoverpage()
-}
+    #Preview {
+        BookCoverpage()
+    }
+    
