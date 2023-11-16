@@ -16,6 +16,10 @@
 		5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */; };
 		5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */; };
 		5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */; };
+		E7277DEA2B052DE500F9E13F /* Chapter2Page2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7277DE92B052DE500F9E13F /* Chapter2Page2View.swift */; };
+		E7277DEC2B052EB000F9E13F /* Chapter2Page3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7277DEB2B052EB000F9E13F /* Chapter2Page3View.swift */; };
+		E7277DEE2B052EDB00F9E13F /* Chapter2Page4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7277DED2B052EDB00F9E13F /* Chapter2Page4View.swift */; };
+		E7277DF02B052F1900F9E13F /* computeranimation.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7277DEF2B052F1900F9E13F /* computeranimation.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +33,10 @@
 		5DE6F6812AFAE3EA004ABB4F /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
 		5DE6F6832AFAE3EF004ABB4F /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 		5DE6F6852AFAE3F3004ABB4F /* Chapter5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter5View.swift; sourceTree = "<group>"; };
+		E7277DE92B052DE500F9E13F /* Chapter2Page2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter2Page2View.swift; sourceTree = "<group>"; };
+		E7277DEB2B052EB000F9E13F /* Chapter2Page3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter2Page3View.swift; sourceTree = "<group>"; };
+		E7277DED2B052EDB00F9E13F /* Chapter2Page4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter2Page4View.swift; sourceTree = "<group>"; };
+		E7277DEF2B052F1900F9E13F /* computeranimation.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = computeranimation.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +77,7 @@
 				5DE6F68A2AFAE492004ABB4F /* Chapter4 */,
 				5DE6F68B2AFAE49B004ABB4F /* Chapter5 */,
 				5DE6F6732AFADF08004ABB4F /* Assets.xcassets */,
+				E7277DEF2B052F1900F9E13F /* computeranimation.mp4 */,
 				5DE6F6752AFADF08004ABB4F /* Preview Content */,
 			);
 			path = SwiftUIStoryTemplate;
@@ -94,6 +103,9 @@
 			isa = PBXGroup;
 			children = (
 				5DE6F67F2AFAE3E6004ABB4F /* Chapter2View.swift */,
+				E7277DE92B052DE500F9E13F /* Chapter2Page2View.swift */,
+				E7277DEB2B052EB000F9E13F /* Chapter2Page3View.swift */,
+				E7277DED2B052EDB00F9E13F /* Chapter2Page4View.swift */,
 			);
 			name = Chapter2;
 			sourceTree = "<group>";
@@ -181,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DE6F6772AFADF08004ABB4F /* Preview Assets.xcassets in Resources */,
+				E7277DF02B052F1900F9E13F /* computeranimation.mp4 in Resources */,
 				5DE6F6742AFADF08004ABB4F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -193,10 +206,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				5DE6F6822AFAE3EA004ABB4F /* Chapter3View.swift in Sources */,
+				E7277DEE2B052EDB00F9E13F /* Chapter2Page4View.swift in Sources */,
+				E7277DEC2B052EB000F9E13F /* Chapter2Page3View.swift in Sources */,
 				5DE6F6842AFAE3EF004ABB4F /* Chapter4View.swift in Sources */,
 				5DE6F6722AFADF05004ABB4F /* ContentView.swift in Sources */,
 				5DE6F6802AFAE3E6004ABB4F /* Chapter2View.swift in Sources */,
 				5DE6F6862AFAE3F3004ABB4F /* Chapter5View.swift in Sources */,
+				E7277DEA2B052DE500F9E13F /* Chapter2Page2View.swift in Sources */,
 				5DE6F67E2AFAE3DF004ABB4F /* Chapter1View.swift in Sources */,
 				5DE6F6702AFADF05004ABB4F /* SwiftUIStoryTemplateApp.swift in Sources */,
 			);
