@@ -41,7 +41,7 @@ struct Chapter2View: View {
                     .scaledToFit()
                 
                 
-                NavigationLink (destination: Chapter2Page2View()){
+              //  NavigationLink(destination: Chapter2Page2View()) {
                     
                     HStack{
                        // Text("Go")
@@ -63,7 +63,7 @@ struct Chapter2View: View {
       
         
     }
-}
+
 
 #Preview {
     Chapter2View()
