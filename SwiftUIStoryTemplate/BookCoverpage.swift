@@ -37,8 +37,11 @@ struct BookCoverpage: View {
                         .frame(maxHeight: .infinity, alignment: .bottom)
         
                     Spacer()
+                    
                         
                 }
+                
+                Spacer()
               
                 
                 
