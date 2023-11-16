@@ -7,52 +7,52 @@ struct ContentView: View {
     
     // @State var chapterTitles = ["Chapter 1: The Quiet Coder", "Chapter 2: Secrets Unraveled", "Chapter 3: Rise of the Code Slinger", "Chapter 4: The Battle Begins", "Chapter 5: Triumph of Humanity"]
     
-    @State private var chapter1Title = ""
-    @State private var chapter2Title = ""
-    @State private var chapter3Title = ""
-    @State private var chapter4Title = ""
-    @State private var chapter5Title = ""
-    
+//    @State private var chapter1Title = ""
+//    @State private var chapter2Title = ""
+//    @State private var chapter3Title = ""
+//    @State private var chapter4Title = ""
+//    @State private var chapter5Title = ""
+//    
     
     // @State private var displayedChapterNames: [String] = ["", "", "", "", ""]
-    
-    func printChapterOneTitle(phrase: String, speed: TimeInterval = 0.03) {
-        for (index, charachter) in phrase.enumerated() {
-            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
-                chapter1Title.append(charachter)
-            }
-        }
-    }
-    
-    func printChapterTwoTitle(phrase: String, speed: TimeInterval = 0.03) {
-        for (index, charachter) in phrase.enumerated() {
-            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
-                chapter2Title.append(charachter)
-            }
-        }
-    }
-    func printChapterThreeTitle(phrase: String, speed: TimeInterval = 0.03) {
-        for (index, charachter) in phrase.enumerated() {
-            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
-                chapter3Title.append(charachter)
-            }
-        }
-    }
-    func printChapterFourTitle(phrase: String, speed: TimeInterval = 0.03) {
-        for (index, charachter) in phrase.enumerated() {
-            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
-                chapter4Title.append(charachter)
-            }
-        }
-    }
-    func printChapterFiveTitle(phrase: String, speed: TimeInterval = 0.03) {
-        for (index, charachter) in phrase.enumerated() {
-            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
-                chapter5Title.append(charachter)
-            }
-        }
-    }
-    
+//    
+//    func printChapterOneTitle(phrase: String, speed: TimeInterval = 0.03) {
+//        for (index, charachter) in phrase.enumerated() {
+//            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
+//                chapter1Title.append(charachter)
+//            }
+//        }
+//    }
+//    
+//    func printChapterTwoTitle(phrase: String, speed: TimeInterval = 0.03) {
+//        for (index, charachter) in phrase.enumerated() {
+//            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
+//                chapter2Title.append(charachter)
+//            }
+//        }
+//    }
+//    func printChapterThreeTitle(phrase: String, speed: TimeInterval = 0.03) {
+//        for (index, charachter) in phrase.enumerated() {
+//            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
+//                chapter3Title.append(charachter)
+//            }
+//        }
+//    }
+//    func printChapterFourTitle(phrase: String, speed: TimeInterval = 0.03) {
+//        for (index, charachter) in phrase.enumerated() {
+//            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
+//                chapter4Title.append(charachter)
+//            }
+//        }
+//    }
+//    func printChapterFiveTitle(phrase: String, speed: TimeInterval = 0.03) {
+//        for (index, charachter) in phrase.enumerated() {
+//            DispatchQueue.main.asyncAfter(deadline: .now() + speed * Double(index)) {
+//                chapter5Title.append(charachter)
+//            }
+//        }
+//    }
+//    
     
     
     
@@ -91,16 +91,10 @@ struct ContentView: View {
                 } label: {
                     
                     
-                    Text(chapter1Title)
+                    Text("Chapter 1: The Quiet Coder")
                         .foregroundColor(.codeblue)
                         .font(.custom("pixelmix", size: 20))
                     
-                        .onAppear {
-                            printChapterOneTitle(phrase: "Chapter 1: The Quiet Coder")
-                            
-                            //printChapterTwoTitle(phrase: "Chapter 2 : Secrets unraveled")
-                            
-                        }
                     
                 }
                 .padding()
@@ -110,13 +104,10 @@ struct ContentView: View {
                     Chapter2View()
                 } label: {
                     
-                    Text (chapter2Title)
+                    Text ("Chapter 2: Secrets Unraveled")
                         .foregroundColor(.codeblue)
                         .font(.custom("pixelmix", size: 20))
-                        .onAppear{
-                            
-                            printChapterTwoTitle(phrase: "Chapter 2: Secrets Unraveled")
-                        }
+                    
                 }
                     
                         .padding()

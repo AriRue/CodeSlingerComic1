@@ -8,7 +8,7 @@
 	<string></string>
 	<key>UIAppFonts</key>
 	<array>
-		<string></string>
+		<string>pixelmix_bold.ttf</string>
 		<string>shaka_pow.ttf</string>
 		<string>pixelmix.ttf</string>
 	</array>
