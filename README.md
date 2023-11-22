@@ -1,12 +1,8 @@
 # Chronicles of Code Slinger
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889">
 
-project logo goes here if you want. completely optional
-
-
 # 01 OverView
-App Statement or project overview goes here
-
+The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding.
 
 ## App Screen Shots go below
 
@@ -15,10 +11,12 @@ App Statement or project overview goes here
  <tr>
 
 <td>
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/47597907-20f3-43d6-9834-50d1b2788b82">
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="(https://github.com/AriRue/CodeSlingerComic1/assets/148977926/bbcad693-b427-4700-b179-91fd9615e7f6)">
 <td>
 
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/5911aa6c-6d02-4b3a-8b29-7441dcd27187">
+
+<img width="300px; h![Uploading bookcoverpp.png…]()
+eight: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/5911aa6c-6d02-4b3a-8b29-7441dcd27187">
 <td>
 
 <tr>
