@@ -26,9 +26,11 @@ eight: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.c
  <table>
  <tr>
   <td>
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b1210a2d-b2a9-4eca-a47b-cb10778030c4">
+ 
+
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/c293da8d-8642-4988-ac09-7a70e78174ac">
 <td>
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/bbe08a99-bed4-4da5-8117-eb999db88d1f">
+
 <td>
 <tr>
 <table>
