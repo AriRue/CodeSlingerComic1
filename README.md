@@ -24,8 +24,7 @@ The objective of the project was to tell a story using code. The purpose was to 
 - Implement @State and user input, and navigation to express the story in Xcode.
 - Design lo-fi and hi-fi prototypes of Code Slinger app.
 - Take Hi-Fi specifications and translate to Xcode app.
-- Collaboration with coders and designers to bring our Hi-Fi prototype to life.
-- Test UI and UX through documentation.
+- Collaborate with coders and designers to bring our Hi-Fi prototype to life.
 - Test code to find any inconsistencies.
 
  <table>
@@ -47,8 +46,7 @@ The objective of the project was to tell a story using code. The purpose was to 
   <td> 
 
 # 05 Challenges
-- The biggest challenged we faced was how to execute the comic style we agreed on in code, because we already decided on the graphics, and images for the story. We researched different comic styles and different resources used when creating a comic. The solution that helped us overcome this was creating our own comic style and design features. We utilized sketch to create storyboards and customize different images to ensure a easy to read experience, and give users the experience of an original comic book story.
-
+- The most challenging aspect of this project was transfering the illustrations for the story in Xcode while maintaining the integrity of the comic book style. With the help of canva Pro we were able to use images that were very animated and engaging. We researched different comic styles and different resources used when creating a comic, and discussed potential ways we cound use them. From this challenge came the great idea of creating our own comic book style template, plugging in the images, creating text bubbles, then exporting and importing into Xcode to position in place.
  <table>
  <tr>
   <td> 
