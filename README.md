@@ -1,6 +1,7 @@
 # App Name or Project goes here
-<img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/299dbed9-0794-4c75-aa20-a87df14230a4">
+<img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889">
 project logo goes here if you want. completely optional
+![bookcoverpp](https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889)
 
 # 01 OverView
 App Statement or project overview goes here
