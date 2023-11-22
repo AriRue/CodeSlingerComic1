@@ -30,7 +30,7 @@ The objective of the project was to tell a story using code. The purpose was to 
 - Test code to find any inconsistencies.
 
 # Techical Walkthrough
- Transitioning from command line interface to swiftui took some adjusting of how we viewed our project, and how we approached our workflow. We decided to tell the story using a comicbook style to capitalize on how engaging the graphics and visuals were. 
+In order to transition from command line interface to swiftui, we had to figure out how to tell our story again and communicate it through code in a completely different way. We decided to tell the story using a style similar to a comicbook to capitalize on how engaging the graphics and visuals were. 
  
  <table>
  <tr>
