@@ -29,9 +29,6 @@ The objective of the project was to tell a story using code. The purpose was to 
 - Test UI and UX through documentation.
 - Test code to find any inconsistencies.
 
-# Techical Walkthrough
-In order to transition from command line interface to swiftui, we had to figure out how to tell our story again and communicate it through code in a completely different way. We decided to tell the story using a style similar to a comicbook to capitalize on how engaging the graphics and visuals were. 
- 
  <table>
  <tr>
 
@@ -46,6 +43,8 @@ In order to transition from command line interface to swiftui, we had to figure 
 <tr>
 <table>
 
+
+
  <table>
  <tr>
   <td>
@@ -58,58 +57,8 @@ In order to transition from command line interface to swiftui, we had to figure 
 <table>
 
 
-
-
-
-
-# 02 Objectives 
-- Code up a MVP(Mininum Viable Product) of a FireChats App
-- Take Hi-Fi specifications and translate to Xcode app.
-- Collaboration with coders and designers to bring our Hi-Fi prototype to life.
-- Test UI and UX through documentation.
-- Test code to find any inconsistencies.
-- Submit Project to TestFlight for UserFeedback and make changes accordingly.
-- Submit to the App Store
-
 # 03 Skills
 Swift, Swift UI, XCode, Sketch.
 Canva Pro, UIKit
 
-# 04 Project Timeline
 
-
-
- <table>
- <tr>
-
-  <td>
- <img width="224" alt="week2" src="https://github.com/ngordon68/FireChats/assets/102773701/72b799b4-2107-421f-9636-ed5c05d58123">
-
-   <td>
-   
- <img width="224" alt="week2" src="https://github.com/ngordon68/FireChats/assets/102773701/59214594-305e-4da3-b434-fc97c4902def">
-
-
-  <td>
-  
-  <img width="224" alt="week3" src="https://github.com/ngordon68/FireChats/assets/102773701/cf1875b3-2eb2-42a6-81bd-60c0267975bf">
-   
-   <td>
-    
-  <img width="224" alt="week3" src="https://github.com/ngordon68/FireChats/assets/102773701/28123804-405f-4e77-a97f-2652ae708e72">
-
-   <tr>
-   <table>  
-
-
-
-   
-
-    
-# 06 Demo
-
-Below is a video walkthrough of a FireChats 1.0
-
-
-
-https://github.com/ngordon68/FireChats-ReadMe/assets/102773701/3144197e-e07b-4de4-a949-c368dbf8a71b
