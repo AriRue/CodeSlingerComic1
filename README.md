@@ -1,8 +1,9 @@
 # Chronicles of Code Slinger
 
 # 01 Overview
-The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding and the language of. 
+The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding and the language of. Our team of developers created a story about a quiet coder that evloves into a superhero to demonstrate a symbol of hope, and represent the idea that anyone can be a hero. The project was divided into two parts, the first part being the command line interface, that included backend coding only and then the swiftui storyboard where we designed an interface for the story. 
 
+# 02 Command Line Story
 ## App Screen Shots go below
 
  <table>
@@ -45,8 +46,8 @@ The objective of the project was to tell a story using code. The purpose was to 
 - Submit to the App Store
 
 # 03 Skills
-Swift, Swift UI, XCode, Figma, Sketch.
-Messages, AVKit, LottieFiles, UIKit
+Swift, Swift UI, XCode, Sketch.
+Canva Pro, UIKit
 
 # 04 Project Timeline
 
