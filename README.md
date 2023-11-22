@@ -1,12 +1,9 @@
 # Chronicles of Code Slinger
 
-<img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889">
-
-# 01 OverView
-The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding.
+# 01 Overview
+The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding and the language of. 
 
 ## App Screen Shots go below
-
 
  <table>
  <tr>
@@ -16,8 +13,7 @@ The objective of the project was to tell a story using code. The purpose was to 
 <td>
 
 
-<img width="300px; h![Uploading bookcoverpp.png…]()
-eight: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/5911aa6c-6d02-4b3a-8b29-7441dcd27187">
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/c293da8d-8642-4988-ac09-7a70e78174ac">
 <td>
 
 <tr>
@@ -28,8 +24,7 @@ eight: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.c
   <td>
  
 
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/c293da8d-8642-4988-ac09-7a70e78174ac">
-<td>
+
 
 <td>
 <tr>
