@@ -1,4 +1,4 @@
-
+# Chronicles of Code Slinger
 # 01 Overview
 The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding and the language of. Our team of developers created a story about a quiet coder that evloves into a superhero to demonstrate a symbol of hope, and represent the idea that anyone can be a hero. The project was divided into two parts, the first part being the command line interface, that included backend coding only and then the swiftui storyboard where we designed an interface for the story. 
 
@@ -45,12 +45,6 @@ The objective of the project was to tell a story using code. The purpose was to 
  <table>
  <tr>
   <td> 
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/b1210a2d-b2a9-4eca-a47b-cb10778030c4">
-<td>
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/ngordon68/FireChats/assets/102773701/bbe08a99-bed4-4da5-8117-eb999db88d1f">
-<td>
-<tr>
-<table>
 
 # 05 Challenges
 - The biggest challenged we faced was how to execute the comic style we agreed on in code, because we already decided on the graphics, and images for the story. We researched different comic styles and different resources used when creating a comic. The solution that helped us overcome this was creating our own comic style and design features. We utilized sketch to create storyboards and customize different images to ensure a easy to read experience, and give users the experience of an original comic book story.
@@ -58,19 +52,14 @@ The objective of the project was to tell a story using code. The purpose was to 
  <table>
  <tr>
   <td> 
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/68d57178-1b2d-4276-b6e9-91c0ecc12e1d">
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/da914266-6e2f-46f6-9876-ea9db184769e">
 <td>
-<img width="300px; height: 500px;" alt="[Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/54c4728b-bcb3-4f91-9168-6e40606bf4e6">
+<img width="300px; height: 500px;" alt="[Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/68d57178-1b2d-4276-b6e9-91c0ecc12e1d">
 <td>
 <tr>
 <table>
 
-  
-  ![Simulator Screenshot - iPhone 15 Pro - 2023-11-22 at 14 57 52](https://github.com/AriRue/CodeSlingerComic1/assets/148977926/da914266-6e2f-46f6-9876-ea9db184769e)
 
-  ![Simulator Screenshot - iPhone 15 Pro - 2023-11-22 at 14 58 21](https://github.com/AriRue/CodeSlingerComic1/assets/148977926/fcfe8355-4189-4658-bdeb-70d5985de62e)# Chronicles of Code Slinger
-
-  ![Simulator Screenshot - iPhone 15 Pro - 2023-11-22 at 14 58 21](https://github.com/AriRue/CodeSlingerComic1/assets/148977926/68d57178-1b2d-4276-b6e9-91c0ecc12e1d)
 
 # 06 Skills
 Swift, Swift UI, XCode, Sketch.
