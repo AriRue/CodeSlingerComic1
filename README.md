@@ -1,4 +1,5 @@
 # Chronicles of Code Slinger
+
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889">
 
 # 01 OverView
@@ -11,7 +12,7 @@ The objective of the project was to tell a story using code. The purpose was to 
  <tr>
 
 <td>
-<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="(https://github.com/AriRue/CodeSlingerComic1/assets/148977926/bbcad693-b427-4700-b179-91fd9615e7f6)">
+<img width="300px; height: 500px;" alt="Screen Shot 2023-02-16 at 11 50 11 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/bbcad693-b427-4700-b179-91fd9615e7f6">
 <td>
 
 
