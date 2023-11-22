@@ -1,4 +1,4 @@
-# App Name or Project goes here
+# Chronicles of Code Slinger
 <img width="100" alt="Screen Shot 2023-02-15 at 8 14 27 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f99b6669-f675-4904-9e65-14bb88b99889">
 
 project logo goes here if you want. completely optional
