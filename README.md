@@ -3,7 +3,7 @@
 # 01 Overview
 The objective of the project was to tell a story using code. The purpose was to utilize storytelling as a introduction and guide to a deeper understanding of  coding and the language of. Our team of developers created a story about a quiet coder that evloves into a superhero to demonstrate a symbol of hope, and represent the idea that anyone can be a hero. The project was divided into two parts, the first part being the command line interface, that included backend coding only and then the swiftui storyboard where we designed an interface for the story. 
 
-# 02 Command Line Story Objectives
+# 02 Command Line Interface Objectives
 - Become familiar with Variables, Constants, Conditionals and basic operators, Functions, Arrays, Loops, Structs, Enums, and optionals.
 - Collaborate with coders and designers to find ways to implement the primitive, compound, and user defined types to create expressions in our code.
 -  Test code to find any inconsistencies.
@@ -20,6 +20,13 @@ The objective of the project was to tell a story using code. The purpose was to 
 <img width="1453" alt="Screenshot 2023-11-22 at 11 25 32 AM" src="https://github.com/AriRue/CodeSlingerComic1/assets/148977926/f1f86274-ea45-4387-b314-722dc7a5c276">
 
 
+# SwiftUI Objectives
+- Become familiar with @State and user input, and navigation
+- Design lo-fi and hi-fi prototypes of Code Slinger app.
+- Take Hi-Fi specifications and translate to Xcode app.
+- Collaboration with coders and designers to bring our Hi-Fi prototype to life.
+- Test UI and UX through documentation.
+- Test code to find any inconsistencies.
 
 
  <table>
